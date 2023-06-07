@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "783212613290",
+    "project_id": "bookbuddy-ifro",
+    "storage_bucket": "bookbuddy-ifro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783212613290:android:353142c9bb4ef0f241cad3",
+        "android_client_info": {
+          "package_name": "com.mycompany.book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783212613290-7jh27dc3jm1d8n4h5pkptv842fbouaqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd-kM7qNZVFR6CgUtFJLPwYjRDVzKu5hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783212613290-7jh27dc3jm1d8n4h5pkptv842fbouaqs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "783212613290-d046s6mtng394imu74ekf0omutqbriii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.bookbuddy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783212613290:android:fb89e8d32fc0010041cad3",
+        "android_client_info": {
+          "package_name": "com.mycompany.bookbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783212613290-eknqb3ume7fmv1b8gph6s49s4g076rqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.bookbuddy",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "783212613290-7jh27dc3jm1d8n4h5pkptv842fbouaqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd-kM7qNZVFR6CgUtFJLPwYjRDVzKu5hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783212613290-7jh27dc3jm1d8n4h5pkptv842fbouaqs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "783212613290-d046s6mtng394imu74ekf0omutqbriii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.bookbuddy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
